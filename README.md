@@ -40,6 +40,8 @@ I work mainly with the **MERN Stack** and love turning ideas into real products.
 
 
 ## 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshyadav37&show_icons=true&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=flat-square)   ███████████████░░░░░ 70%  
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square)   █████████████░░░░░░░░ 60%  
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square)  ███████████████████░ 90%  
+![CSS](https://img.shields.io/badge/CSS-70%25-1572B6?style=flat-square)  ███████████████░░░░░ 70%
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadav37&layout=compact&theme=tokyonight)
