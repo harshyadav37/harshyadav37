@@ -10,7 +10,7 @@ I work mainly with the **MERN Stack** and love turning ideas into real products.
 ---
 
 ## 🌐 Portfolio & Socials
-- 🌍 Portfolio: https://portfolio-git-main-harsh-yadavs-projects-1ed522fa.vercel.app/
+- 🌍 Portfolio: https://portfolio-sand-theta-v778jydec9.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/harsh-yadav-a8a90826b/
 - 📧 Email: hy050712@email.com
 
